@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo aplicar técnicas de Aprendizaje Supervisado p
 
 Se desarrolló un modelo de Regresión Lineal utilizando Python y la biblioteca Scikit-Learn, capaz de estimar la duración de un recorrido a partir de variables como la hora del viaje, la cantidad de pasajeros y la distancia recorrida.
 
-##Dataset utilizado
+## Dataset utilizado
 
 - Hora: Hora de inicio del recorrido.
 - Pasajeros: Cantidad estimada de pasajeros.
